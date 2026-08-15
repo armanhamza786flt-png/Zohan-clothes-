@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Zohan Clothes | Luxury Fashion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<header>
+    <h1>Zohan Clothes</h1>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Shop</a>
+        <a href="#">Collection</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Premium Style, Luxury Feel</h2>
+    <p>Discover exclusive fashion with high-quality fabrics and modern designs.</p>
+    <button onclick="orderNow()">Explore Collection</button>
+</section>
+
+<section class="collection">
+    <div class="box">
+        <h3>Luxury Suits</h3>
+        <p>Elegant suits crafted for a premium look.</p>
+    </div>
+
+    <div class="box">
+        <h3>Premium Wear</h3>
+        <p>Comfortable and stylish outfits for every occasion.</p>
+    </div>
+
+    <div class="box">
+        <h3>Exclusive Fashion</h3>
+        <p>Unique designs that define your personality.</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Zohan Clothes | Luxury & Premium Fashion</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
